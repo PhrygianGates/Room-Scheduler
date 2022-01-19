@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\大学课程\离散数学(2)\PianoSchedule\main.cpp(123,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\大学课程\离散数学(2)\PianoSchedule\main.cpp(138,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\大学课程\离散数学(2)\PianoSchedule\main.cpp(152,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\大学课程\离散数学(2)\PianoSchedule\main.cpp(167,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\大学课程\离散数学(2)\PianoSchedule\main.cpp(207,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大学课程\离散数学(2)\PianoSchedule\main.cpp(231,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大学课程\离散数学(2)\PianoSchedule\main.cpp(254,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大学课程\离散数学(2)\PianoSchedule\main.cpp(278,23): warning C4018: “<”: 有符号/无符号不匹配
+  PianoSchedule.vcxproj -> D:\大学课程\离散数学(2)\PianoSchedule\Debug\PianoSchedule.exe

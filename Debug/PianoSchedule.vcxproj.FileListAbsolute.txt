@@ -1,0 +1,2 @@
+D:\大学课程\离散数学(2)\PianoSchedule\Debug\PianoSchedule.exe
+D:\大学课程\离散数学(2)\PianoSchedule\Debug\PianoSchedule.pdb
